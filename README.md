@@ -107,9 +107,6 @@ Modify the following variables at the beginning of the `wallpaper_scraper.py` fi
 
 ---
 
-## ⚠️ Disclaimer and Terms of Service
-
-Please be aware that automated scraping may be restricted by the terms of service of the target website. WallpaperCave's terms should be reviewed. This script is intended for educational purposes and personal use where you have the necessary authorization to download the content. Always scrape responsibly and avoid causing undue load on the website's servers.
 
 ---
 
